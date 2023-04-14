@@ -1,7 +1,7 @@
-Hi! I'm Raphael! 
+<h3>Hi! I'm Raphael!</h3> 
 
-I'm a full stack developer with experience with Python, Typescript, Django, React and Go. 
-I've been using these tools to build web applications and automation solutions.
+<p>I'm a full stack developer with experience with Python, Typescript, Django, React and Go. </p>
+<p>I've been using these tools to build web applications and automation solutions.</p>
 
 You can find me on <a href="https://www.linkedin.com/in/raphael-oliveira-47510897/">Linkedin</a><br/>
 Let's build stuff together!
