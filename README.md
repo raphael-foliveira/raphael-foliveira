@@ -1,6 +1,6 @@
 <h3>Hi! I'm Raphael!</h3> 
 
-<p>I'm a full stack developer with experience with Python, Typescript, Django, React and Go. </p>
+<p>I'm mainly a backend developer with fullstack experience in Python, Typescript, Django, React and Go. </p>
 <p>I've been using these tools to build web applications and automation solutions.</p>
 <p>Currently working as a crawler/backend developer at Devnology</p>
 
