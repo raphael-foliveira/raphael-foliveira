@@ -1,4 +1,3 @@
-# 💫 About Me:
 <br>Hi! I'm Raphael!<br>I'm mainly a backend developer with fullstack experience in Python, Typescript, Django, React and Go.<br><br>I've been using these tools to build web applications and automation solutions.<br><br>Currently working as a crawler/backend developer at Devnology<br><br>You can find me on <a href="https://www.linkedin.com/in/raphael-oliveira-47510897/">Linkedin</a><br>Let's build stuff together! 
 
 # 💻 Tech Stack:
